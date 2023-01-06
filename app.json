@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "ipesaudeapp",
+    "slug": "ipesaudeapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "backgroundColor": "#FFFFFF",
+    "extra": {
+      "eas": {
+        "projectId": "5f6ec229-415a-4bf0-bc93-1f8cf8a0ab20"
+      }
+    },
+    "android": {
+      "package": "com.ipesaudeapp.app"
+    }
+  }
+}
